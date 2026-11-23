@@ -5,10 +5,10 @@ They have no tracking and no servers, and all data stays in your browser.
 
 | Extension | What it does | Firefox | Chrome |
 |---|---|---|---|
-| **TGM TabGroupManager** | Manage all your tab groups in one place | [Get it](#) | [Get it](#) |
-| **TB_TabSleep** | Put unused tabs to sleep and save memory | [Get it](#) | [Get it](#) |
-| **STH_SiteTimeHistory** | Track and limit your time on websites | [Get it](#) | [Get it](#) |
-| **PM_PageMemo** | Highlight and take notes on any web page | [Get it](#) | [Get it](#) |
+| **TGM TabGroupManager** | Manage all your tab groups in one place | [Coming soon](#) | [Coming soon](#) |
+| **TB_TabSleep** | Put unused tabs to sleep and save memory | [Coming soon](#) | [Coming soon](#) |
+| **STH_SiteTimeHistory** | Track and limit your time on websites | [Coming soon](#) | [Coming soon](#) |
+| **PM_PageMemo** | Highlight and take notes on any web page | [Coming soon](#) | [Coming soon](#) |
 
 All four are available in English, 日本語, 中文 and 한국어.
 
